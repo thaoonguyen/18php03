@@ -1,0 +1,65 @@
+header{
+	height: 200px;
+	width: 100%;
+
+}
+.logo{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+.slogan{
+	height: 200px;
+	width: 75%;
+	float: left;
+}
+.menu1{
+	background-color: #ea8c44; 
+	width: 18.3%;
+	height: 18px;
+	padding: 5px;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	color: white;
+}
+.menu2{
+	background-color: #ea8c44; 
+	width: 18.3%;
+	height: 18px;
+	padding: 5px;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	color: white;
+}
+.menu3{
+	background-color: #ea8c44; 
+	width: 18.3%;
+	height: 18px;
+	padding: 5px;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	color: white;
+}
+.menu4{
+	background-color: #ea8c44; 
+	width: 18.3%;
+	height: 18px;
+	padding: 5px;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	color: white;
+}
+.menu5{
+	background-color: #ea8c44; 
+	width: 18.3%;
+	height: 18px;
+	padding: 5px;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	color: white;
+}

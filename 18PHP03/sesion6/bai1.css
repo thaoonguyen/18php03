@@ -1,0 +1,39 @@
+ #containter{
+ 	width: 100%;
+
+ }
+
+ body{
+ 	margin: 2%;
+ }
+
+ header{
+ 	height: 100px;
+ 	width: 100%;
+ 	background-color: #a8cbf1;
+ }
+
+ .brond{
+ 	height: 40px;
+ 	width: 20%;
+ 	background-color: #85b2e2;
+ 	float: left;
+ 	margin-right: 5%;
+ 	margin-left: 1%;
+ }
+
+ .global{
+	height: 40px;
+ 	width: 20%;
+ 	background-color: #85b2e2;
+ 	float: left;
+ 	margin-right: 5%;
+ }
+ 
+ .tool{
+ 	height: 40px;
+ 	width: 20%;
+ 	background-color: #85b2e2;
+ 	float: left;
+ }
+ }

@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: yellow;
+	height: 85px;
+	margin-bottom: 15px;
+}
+
+.content{
+	
+	height: 462px;
+}
+
+footer{
+	background-color: yellow;
+	height: 85px;
+	margin-top: 15px;
+}
+
+.nav{
+	background-color: yellow;
+	width: 15%;
+	float: left;
+	height: 462px;
+	margin-right:1%;
+}
+
+.article{
+	background-color: yellow;
+	width: 68%;
+	float: left;
+	height: 462px;
+	margin-right:1%;
+
+}
+
+.ads{
+	background-color: yellow;
+	width: 15%;
+	float: left;
+	height: 462px;
+}
+
+.text{
+
+	padding-left: 40px;
+	line-height: 50px;
+}

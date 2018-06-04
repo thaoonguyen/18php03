@@ -1,0 +1,65 @@
+
+main{
+	margin-top: 25px;
+}
+
+header{
+	height: 52px;
+}
+.nghe{
+
+	background-color: #213f4a;
+	height:52px; 
+	width: 75%;
+	float: right;
+
+}
+
+.ten{
+
+	height:30px;
+	width: 25%;
+	float: left;
+
+
+}
+
+.thongtin{
+
+	padding-top: 20px;
+	background-color: #213f4a;
+	width: 25%;
+	height: 260px;
+}
+
+.img{
+
+	background-color: #213f4a;
+	width: 25%;
+
+}
+
+.text2{
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	margin-right: 30px;
+}
+
+.text1{
+
+	color: #213f4a;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+	margin-top: 15px;
+}
+
+.text3{
+
+	color: white;
+	font-size: 15px;
+	font-weight: inherit;
+	text-align: left;
+}

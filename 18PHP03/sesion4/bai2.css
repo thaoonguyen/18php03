@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #c1baba;
+	height: 85px;
+	line-height: 85px;
+	
+	
+}
+
+.content{
+	
+	height: 490px;
+}
+
+footer{
+	background-color: #c1baba;
+	height: 85px;
+	line-height: 85px;
+	
+}
+
+.nav{
+	background-color: #e8dada;
+	width: 14.8%;
+	float: left;
+	height: 490px;
+    border-color: black;
+	border-width: 1px;
+   	border-style: solid;
+   	line-height: 490px;
+
+}
+
+.article{
+	width: 70%;
+	float: left;
+	height: 490px;
+    border-color: black;
+	
+
+}
+
+.ads{
+	background-color: #e8dada;
+	width: 14.8%;
+	float: left;
+	height: 490px;
+	border-width: 1px;
+   	border-style: solid;
+   	line-height: 490px;
+
+}
+
+.text{
+
+	font-weight: bold;
+	text-align: center;
+
+}
+
+
+.pre{
+
+	background-color: #e5b5b5;
+	height: 100px;
+	border-width: 1px;
+   	border-style: solid;
+   	border-right: none;
+   	border-left: none;
+	line-height: 100px;
+}
+
+.body{
+	height: 290px;
+	line-height: 290px;
+}
+
+.post{
+	background-color: #e5b5b5;
+	height: 98px;
+	border-width: 1px;
+   	border-style: solid;
+   	border-right: none;
+   	border-left: none;
+   	line-height: 100px;
+
+}

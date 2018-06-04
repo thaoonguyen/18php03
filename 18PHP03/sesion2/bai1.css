@@ -1,0 +1,50 @@
+body{
+
+	margin: 0;
+}
+
+.p0{
+
+	height: 800px;
+
+}
+
+.p1,.p2,.p3,.p4{
+
+	width: 25%;
+	height: 100%;
+	float: left;	
+
+}
+.p1{
+	
+	background-color: #a7e8df;
+}
+
+.p2{
+	
+	background-color: #dcf252;
+	
+}
+
+.p3{
+	
+	background-color: #e86161;
+	
+}
+
+.p4{
+	
+	background-color: #9ded7b;
+	
+}
+
+.text{
+
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	line-height: 60px;
+	
+}
